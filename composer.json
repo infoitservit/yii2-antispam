@@ -8,7 +8,7 @@
   ],
   "type": "yii2-extension",
   "require": {
-    "cleantalk/php-antispam": "~2.0.0"
+    "cleantalk/php-antispam": "2.1.2"
   },
   "require-dev": {
     "yiisoft/yii2": "~2.0.0",
